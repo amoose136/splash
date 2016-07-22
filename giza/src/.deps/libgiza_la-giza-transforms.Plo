@@ -1,0 +1,22 @@
+libgiza_la-giza-transforms.lo: giza-transforms.c giza-private.h \
+  /usr/X11//include/cairo/cairo.h \
+  /usr/X11//include/cairo/cairo-version.h \
+  /usr/X11//include/cairo/cairo-features.h \
+  /usr/X11//include/cairo/cairo-deprecated.h giza-transforms-private.h \
+  giza-io-private.h giza-window-private.h
+
+giza-private.h:
+
+/usr/X11//include/cairo/cairo.h:
+
+/usr/X11//include/cairo/cairo-version.h:
+
+/usr/X11//include/cairo/cairo-features.h:
+
+/usr/X11//include/cairo/cairo-deprecated.h:
+
+giza-transforms-private.h:
+
+giza-io-private.h:
+
+giza-window-private.h:

@@ -1,0 +1,8 @@
+libgiza_la-giza-version.lo: giza-version.c giza.h giza-shared.h \
+  giza-version.h
+
+giza.h:
+
+giza-shared.h:
+
+giza-version.h:

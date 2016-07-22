@@ -1,0 +1,10 @@
+libgiza_la-giza-warnings.lo: giza-warnings.c giza.h giza-shared.h \
+  giza-version.h giza-warnings-private.h
+
+giza.h:
+
+giza-shared.h:
+
+giza-version.h:
+
+giza-warnings-private.h:

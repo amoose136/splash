@@ -1,0 +1,28 @@
+libgiza_la-giza-stroke.lo: giza-stroke.c giza-transforms-private.h \
+  giza-private.h /usr/X11//include/cairo/cairo.h \
+  /usr/X11//include/cairo/cairo-version.h \
+  /usr/X11//include/cairo/cairo-features.h \
+  /usr/X11//include/cairo/cairo-deprecated.h giza-line-style-private.h \
+  giza-stroke-private.h giza.h giza-shared.h giza-version.h
+
+giza-transforms-private.h:
+
+giza-private.h:
+
+/usr/X11//include/cairo/cairo.h:
+
+/usr/X11//include/cairo/cairo-version.h:
+
+/usr/X11//include/cairo/cairo-features.h:
+
+/usr/X11//include/cairo/cairo-deprecated.h:
+
+giza-line-style-private.h:
+
+giza-stroke-private.h:
+
+giza.h:
+
+giza-shared.h:
+
+giza-version.h:

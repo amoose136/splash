@@ -1,0 +1,29 @@
+libgiza_la-giza-function-y.lo: giza-function-y.c giza-private.h \
+  /usr/X11//include/cairo/cairo.h \
+  /usr/X11//include/cairo/cairo-version.h \
+  /usr/X11//include/cairo/cairo-features.h \
+  /usr/X11//include/cairo/cairo-deprecated.h giza-transforms-private.h \
+  giza-stroke-private.h giza-io-private.h giza.h giza-shared.h \
+  giza-version.h
+
+giza-private.h:
+
+/usr/X11//include/cairo/cairo.h:
+
+/usr/X11//include/cairo/cairo-version.h:
+
+/usr/X11//include/cairo/cairo-features.h:
+
+/usr/X11//include/cairo/cairo-deprecated.h:
+
+giza-transforms-private.h:
+
+giza-stroke-private.h:
+
+giza-io-private.h:
+
+giza.h:
+
+giza-shared.h:
+
+giza-version.h:

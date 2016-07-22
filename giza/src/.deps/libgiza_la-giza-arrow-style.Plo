@@ -1,0 +1,26 @@
+libgiza_la-giza-arrow-style.lo: giza-arrow-style.c giza-private.h \
+  /usr/X11//include/cairo/cairo.h \
+  /usr/X11//include/cairo/cairo-version.h \
+  /usr/X11//include/cairo/cairo-features.h \
+  /usr/X11//include/cairo/cairo-deprecated.h giza-arrow-style-private.h \
+  giza-io-private.h giza.h giza-shared.h giza-version.h
+
+giza-private.h:
+
+/usr/X11//include/cairo/cairo.h:
+
+/usr/X11//include/cairo/cairo-version.h:
+
+/usr/X11//include/cairo/cairo-features.h:
+
+/usr/X11//include/cairo/cairo-deprecated.h:
+
+giza-arrow-style-private.h:
+
+giza-io-private.h:
+
+giza.h:
+
+giza-shared.h:
+
+giza-version.h:

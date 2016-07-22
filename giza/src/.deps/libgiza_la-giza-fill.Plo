@@ -1,0 +1,46 @@
+libgiza_la-giza-fill.lo: giza-fill.c giza-private.h \
+  /usr/X11//include/cairo/cairo.h \
+  /usr/X11//include/cairo/cairo-version.h \
+  /usr/X11//include/cairo/cairo-features.h \
+  /usr/X11//include/cairo/cairo-deprecated.h giza-io-private.h \
+  giza-stroke-private.h giza-transforms-private.h giza-fill-private.h \
+  giza.h giza-shared.h giza-version.h /usr/include/math.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h
+
+giza-private.h:
+
+/usr/X11//include/cairo/cairo.h:
+
+/usr/X11//include/cairo/cairo-version.h:
+
+/usr/X11//include/cairo/cairo-features.h:
+
+/usr/X11//include/cairo/cairo-deprecated.h:
+
+giza-io-private.h:
+
+giza-stroke-private.h:
+
+giza-transforms-private.h:
+
+giza-fill-private.h:
+
+giza.h:
+
+giza-shared.h:
+
+giza-version.h:
+
+/usr/include/math.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
